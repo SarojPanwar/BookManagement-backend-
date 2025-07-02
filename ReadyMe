@@ -1,0 +1,18 @@
+
+// const index=users.indexOf(user);
+// users.splice(index,1)
+
+// var class=["six","seven","eight"];
+// indexOf()
+// class.indexOf("seven")
+
+// ##/books
+//GET:get all the books
+//POST:create /Add a new book
+
+//##/books/{id}
+//GET: get a book by id
+//PUT:update a book by id
+// ##/books/issued
+//GET:get all issued books
+// jan 1 1970 UTC 
